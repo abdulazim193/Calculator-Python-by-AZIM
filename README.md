@@ -10,6 +10,7 @@ A command-line calculator made by ABDUL AZIM
 - Input validation and error handling
 - Clean terminal interface
 
-### How to Run
+## How to Run  
 ```bash
 python calculator.py
+```
