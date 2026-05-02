@@ -12,7 +12,7 @@ A command-line calculator made by ABDUL AZIM
 
 ## How to Run
 ```bash
-index.py
+calculator.py
 ```
 
 ## Screenshot
