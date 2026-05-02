@@ -1,13 +1,15 @@
-# Simple Calculator 🧮
+# Calculator-Python-by-AZIM
+
+## Simple Calculator
 
 A command-line calculator made by ABDUL AZIM
 
-## Features
+### Features
 - Basic arithmetic (add, subtract, multiply, divide)
 - Scientific operations (square root, power, trig)
 - Input validation and error handling
 - Clean terminal interface
 
-## How to Run
+### How to Run
 ```bash
 python calculator.py
