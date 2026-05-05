@@ -1,22 +1,39 @@
-#  Calculator-Python-by-AZIM
+# Calculator Program (Python)
 
-## Simple Calculator
-
-A command-line calculator made by ABDUL AZIM
+## Overview
+This project is a console-based calculator developed using Python. It supports both basic arithmetic operations and selected scientific functions. The program is designed with a modular structure and includes input validation to ensure reliable user interaction.
 
 ## Features
-- Basic arithmetic (add, subtract, multiply, divide)
-- Scientific operations (square root, power, trig)
-- Input validation and error handling
-- Clean terminal interface
+- Basic operations: addition, subtraction, multiplication, division, and modulus  
+- Scientific functions: square root, power, trigonometric functions (sin, cos, tan), and factorial  
+- Input validation and error handling  
+- Menu-driven command-line interface  
+- Clear and structured code using functions  
+
+## Technologies Used
+- Python 3  
+- Standard libraries: `math`, `os`  
 
 ## How to Run
-```bash
-calculator.py
-```
+1. Ensure Python 3 is installed on your system  
+2. Download or clone this repository  
+3. Open a terminal in the project directory  
+4. Run the program using:
+   python calculator.py
 
-## Screenshot
-![Calculator Screenshot](image.png)
+## Project Structure
+- `calculator.py` – Main program file containing all functionalities  
 
----
-Made by **ABDUL AZIM**
+## Learning Outcomes
+- Understanding of modular programming in Python  
+- Implementation of user input validation  
+- Handling runtime errors (e.g., division by zero)  
+- Use of built-in mathematical functions  
+
+## Future Improvements
+- Graphical User Interface (GUI) implementation  
+- Calculation history feature  
+- Additional scientific functions  
+
+## Author
+ABDUL AZIM
