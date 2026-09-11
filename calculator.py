@@ -1,6 +1,4 @@
-# calculator.py
-# Author: Abdul Azim
-# Description: A simple console-based calculator with basic and scientific functions.
+
 
 import math
 import os
